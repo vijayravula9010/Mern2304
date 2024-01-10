@@ -1,0 +1,120 @@
+body{
+    margin: 0px;
+}
+
+.maindiv{
+    width: 100%;
+    height: 100px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    background-color: whitesmoke;
+    box-shadow: 0.1px 0.1px 7px black;
+    position: fixed;
+}
+.img{
+  
+    width:120px;
+     height:90px;
+     position: relative;
+     left: 100px;
+    }
+    .div1{
+        width: 40%;
+    height: 90px;
+    
+    align-items: center;
+    }
+    .div2{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-evenly;
+        width: 60%;
+         height: 90px;
+          bottom: 40px;
+          align-items: center;
+    }
+    .sixdiv{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-evenly;
+      
+        height: 10px;
+        padding: 40px;
+    }
+    input{
+        width: 400px;
+        height: 22px;
+        padding: 10px;
+        background-color: white;
+      
+    }
+    .sixdivv{
+        width: 100%;
+        height: 600px;
+        background-color: rgb(226, 224, 224);
+       
+    }
+    .sevendiv{
+        width: 100%;
+        height: 150px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    #one{
+        width: 74%;
+        height: 140px;
+        
+    }
+    .sevendiv33{
+        width: 100%;
+        height: 60px;
+        align-items: center;
+      
+        display: flex;
+        justify-content: center;
+        margin-top: 30px ;
+    }
+    .sevendiv1{
+        width: 250px;
+        height: 50px;
+      
+
+        align-items: center;
+     
+       margin: 50px;
+    }
+    #id{
+        width: 250px;
+        height: 50px;
+        text-align: center;
+    }
+    .lastdiv{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;   
+        background-color: rgb(244, 242, 242);
+        
+    }
+    .padding{
+        width: 250px;
+        height: 30px;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between; 
+       
+    }
+    .footer{
+        width: 100%;
+        height: 130px;
+        background-color: rgb(40, 39, 39);
+    
+    }
+    #head{
+        color: rgb(235, 238, 241);
+       padding: 50px;
+    }
+    .clasdiv{
+        border-radius: 50px;
+    }
